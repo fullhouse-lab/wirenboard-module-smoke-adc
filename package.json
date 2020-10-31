@@ -1,0 +1,23 @@
+{
+  "name": "wirenboard-module-smoke-adc",
+  "version": "1.0.0",
+  "description": "Smoke detector ADC",
+  "main": "./wb-rules-modules/smoke.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "smoke",
+    "adc",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-smoke-adc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-smoke-adc/issues/"
+  },
+  "license": "ISC"
+}
