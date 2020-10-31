@@ -1,5 +1,5 @@
 var MODULE_NAME 		= "smoke-adc";
-var MODULE_VERSION  = "v.1.0";
+var MODULE_VERSION  = "v.1.1";
 
 exports.start = function(config) {
 	if (!validateConfig(config)) return;
