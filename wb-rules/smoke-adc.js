@@ -1,4 +1,4 @@
-var smoke_adc = require("smoke_adc");
+var smoke_adc = require("smoke-adc");
 
 smoke_adc.start({
 	id: "smoke_1",
